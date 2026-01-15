@@ -25,7 +25,7 @@ published_at: '2026-01-15 18:00'
 
 **ログインページをマトリクス風にアレンジする。**
 
-![草マップwのマトリクス風ログインページ](/images/kusamap-matrix-login.png)
+![草マップwのマトリクス風ログインページ](/images/2026/01/kusamap-matrix-login.png)
 
 なぜマトリクスなのか。
 それは後で説明する。
