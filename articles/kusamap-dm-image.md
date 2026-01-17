@@ -9,7 +9,7 @@ topics:
   - 'ゲーム'
   - 'ポエム'
 published: true
-published_at: '2026-01-18 12:00'
+published_at: '2026-01-17 18:00'
 ---
 
 # はじめに
