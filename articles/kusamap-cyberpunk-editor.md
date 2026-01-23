@@ -59,6 +59,8 @@ published_at: '2026-01-23 18:00'
 
 作ったエディターには、いくつかのこだわりがあります。
 
+![SF Editor - サイバーパンクなエディター](/images/2026/01/kusamap-cyberpunk-editor.png)
+
 ### 背景が透ける
 
 ウィンドウの背景が透過しています。
@@ -188,3 +190,13 @@ VS Codeで同じことができます。
 草マップw: https://kusam.app/
 
 会員数12人。開発者は今、サイバーパンクなエディターでこのブログを書いています（嘘です、普通にClaude Codeです）。
+
+---
+
+## ダウンロード
+
+興味がある奇特な方のために、GitHubでリリースしています。
+
+**SF Editor v0.3.0**: https://github.com/NEXT-STANDARD/sf-editor/releases/tag/v0.3.0
+
+使う人がいるかどうかは、わかりません。
