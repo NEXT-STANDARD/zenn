@@ -59,7 +59,7 @@ published_at: '2026-01-23 18:00'
 
 作ったエディターには、いくつかのこだわりがあります。
 
-![SF Editor - サイバーパンクなエディター](/images/2026/01/kusamap-cyberpunk-editor.png)
+![SF Editor - サイバーパンクなエディター](https://storage.googleapis.com/zenn-user-upload/30dd25818847-20260123.png)
 
 ### 背景が透ける
 
