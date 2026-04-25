@@ -8,7 +8,7 @@ topics:
   - 'スタートアップ'
   - '個人開発'
   - 'ポエム'
-published: true
+published: false
 published_at: '2026-01-15 12:00'
 ---
 

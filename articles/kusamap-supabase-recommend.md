@@ -3,7 +3,7 @@ title: "開発者たちはClawdbotに夢中だが、私はAIがSupabaseばかり
 emoji: "🗄️"
 type: "idea"
 topics: ["ポエム", "個人開発", "Supabase", "Claude", "生成AI"]
-published: true
+published: false
 published_at: '2026-01-25 10:00'
 ---
 

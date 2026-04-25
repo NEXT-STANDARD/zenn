@@ -8,7 +8,7 @@ topics:
   - 'バイブコーディング'
   - 'スタートアップ'
   - 'ポエム'
-published: true
+published: false
 published_at: '2026-01-16 18:00'
 ---
 

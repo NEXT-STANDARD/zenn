@@ -8,7 +8,7 @@ topics:
   - 'スタートアップ'
   - 'ゲーム'
   - 'ポエム'
-published: true
+published: false
 published_at: '2026-01-17 18:00'
 ---
 

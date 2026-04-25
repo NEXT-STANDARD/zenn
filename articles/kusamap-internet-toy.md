@@ -3,7 +3,7 @@ title: "自分に価値があると勘違いしてしまうインターネット
 emoji: "🎪"
 type: "idea"
 topics: ["ポエム", "SNS", "炎上", "インターネット"]
-published: true
+published: false
 published_at: '2026-01-21 10:00'
 ---
 
