@@ -3,7 +3,7 @@ title: "アイデアは出すより、忘れないことの方が難しい"
 emoji: "💭"
 type: "idea"
 topics: ["ポエム", "アイデア", "ChatGPT", "Claude", "生成AI"]
-published: true
+published: false
 published_at: '2026-01-20 21:00'
 ---
 

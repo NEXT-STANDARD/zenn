@@ -3,7 +3,7 @@ title: "新しいドメインを取得。新規ユーザーからの提案でkus
 emoji: "🌐"
 type: "idea"
 topics: ["ポエム", "個人開発", "ドメイン", "草マップw"]
-published: true
+published: false
 published_at: '2026-01-20 16:00'
 ---
 

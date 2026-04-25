@@ -3,7 +3,7 @@ title: "【海外アプリ探訪①】鳥を育てないと自分が死ぬアプ
 emoji: "🐦"
 type: "idea"
 topics: ["ポエム", "メンタルヘルス", "アプリ", "海外サービス", "セルフケア"]
-published: true
+published: false
 published_at: '2026-02-13 12:00'
 ---
 
