@@ -8,7 +8,7 @@ topics:
   - 'mcp'
   - 'Nostr'
   - 'BLE'
-published: false
+published: true
 ---
 
 # 少し怖い話から始めよう
